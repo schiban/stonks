@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1034484344289",
+    "project_id": "stonks-ff2c8",
+    "storage_bucket": "stonks-ff2c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034484344289:android:7f5127750da85708e5dea0",
+        "android_client_info": {
+          "package_name": "com.example.stonks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034484344289-8qav0k9quob7il5jhtbtpvfot8a0gkpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqlubWzQvB4SMPuadN5HOQwf3SySKTQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034484344289-8qav0k9quob7il5jhtbtpvfot8a0gkpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034484344289-s8jp95a0vvcsfd6ids94r14b4un1jf03.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stonks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
